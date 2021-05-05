@@ -1,0 +1,7 @@
+https://data.police.uk/data/
+Steps
+1) Navigate to https://data.police.uk/data/
+2) Select Data Range from feb to current 
+3)select "All Forces" in forces Checkbox
+4) select datasets as crimedata and outcome data 
+5) click on generate file 

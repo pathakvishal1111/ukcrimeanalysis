@@ -1,0 +1,4 @@
+1) Collate street data together in 1 folder 
+2) Navigate to the path through command prompt
+3) Run command copy *.csv  combined.csv
+4) Note : with every merged dataset column names also gets merged
